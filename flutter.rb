@@ -3,7 +3,7 @@ class Flutter < Formula
   desc "Homebrew shell for Flutter stable"
   homepage "https://flutter.io"
   url "https://github.com/flutter/flutter.git", :branch => "stable"
-  version "1.0.0"
+  version "1.2.0"
   bottle :unneeded
 
   def install
