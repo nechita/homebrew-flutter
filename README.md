@@ -5,7 +5,7 @@ Currently installs flutter latest stable version in flutter/flutter github (http
 ## Installation:
 
 ```shell
-$ brew tap MiderWong/flutter
+$ brew tap nechita/homebrew-flutter
 $ brew install flutter
 ```
 
