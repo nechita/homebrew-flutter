@@ -1,5 +1,7 @@
 # Flutter
 
+Forked the original tap in order to be able to upgrade flutter to newer version.
+
 Currently installs flutter latest stable version in flutter/flutter github (https://github.com/flutter/flutter)
 
 ## Installation:
